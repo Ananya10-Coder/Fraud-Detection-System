@@ -16,11 +16,10 @@ Fraud-Detection-System/
 ├── sql_eda/                           # SQL scripts for data loading, cleaning, and EDA
 │   ├── FraudDetectionCleaning.sql     # Creates schema, cleans & loads data
 │   ├── FraudDetectionEDA.sql          # SQL-based analysis of fraud trends
-│   └── instructions.md                # (Optional) DB setup guidance
-├── ml_notebook/                      # Machine learning classification logic
+├── ml_notebook/                       # Machine learning classification logic
 │   └── Fraud_Detection_Personalized_Modeling.ipynb
 ├── visualization/                    # Tableau dashboard & visual materials
-│   ├── dashboard.twb or .pdf          # Tableau workbook or export
+│   ├── dashboard.pdf                 # Tableau workbook or export
 ```
 
 ---
