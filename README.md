@@ -20,7 +20,7 @@ Fraud-Detection-System/
 ├── ml_notebook/                       # Machine learning classification logic
 │   └── Fraud_Detection_Personalized_Modeling.ipynb
 ├── visualization/                    # Tableau dashboard & visual materials
-│   ├── dashboard.pdf                 # Tableau workbook or export
+│   ├── dashboard.twbx                # Tableau workbook or export
 ```
 
 ---
