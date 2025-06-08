@@ -1,4 +1,5 @@
 # 🛡️ Fraud Detection Project
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MtDu0b1mh_3ZUYxOBgUS6kPtIwlBz_Tc#scrollTo=fec06f5b)
 
 ## 🔍 Project Overview
 
