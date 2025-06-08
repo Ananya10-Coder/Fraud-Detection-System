@@ -132,5 +132,3 @@ It was cleaned and extended with SQL-based staging and standardized for analysis
 * Tableau helps communicate fraud insights across business units
 * Even simple ML models, when based on rich features, can perform well
 * Structuring a project into modular, reusable parts improves maintainability and storytelling
-
-> 💬 This project was built as part of my personal portfolio to demonstrate full-stack data skills: SQL + ML + BI.
