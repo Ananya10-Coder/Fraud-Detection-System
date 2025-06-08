@@ -11,7 +11,7 @@ The goal is to identify patterns of fraudulent behavior within a financial trans
 ## 🗂️ Repository Structure
 
 ```
-fraud-detection-project/
+Fraud-Detection-System/
 ├── README.md                          # Project summary and usage
 ├── sql_eda/                           # SQL scripts for data loading, cleaning, and EDA
 │   ├── FraudDetectionCleaning.sql     # Creates schema, cleans & loads data
