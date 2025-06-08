@@ -21,7 +21,6 @@ Fraud-Detection-System/
 │   └── Fraud_Detection_Personalized_Modeling.ipynb
 ├── visualization/                    # Tableau dashboard & visual materials
 │   ├── dashboard.twb or .pdf          # Tableau workbook or export
-│   └── tableau_screenshots/           # Static images of key dashboards
 ```
 
 ---
